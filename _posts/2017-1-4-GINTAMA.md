@@ -1,4 +1,11 @@
-
+---
+layout: article
+title:  "安利我的本命番——银魂"
+date:   2018-1-04 03:30:40 +0800
+categories: posts rwd
+image:
+  teaser: fajixian.jpg
+---
 
 ![ginsang](https://pic1.zhimg.com/50/v2-aee95796cb804b303c597a57bf41e777_hd.jpg)
 
