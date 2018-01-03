@@ -12,6 +12,7 @@ body {
     background-image:
       linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 0.7)), 
       url('../images/mountain.svg');
+
 	@include font-size(16);
 }
 
@@ -136,7 +137,7 @@ figure {
       /* Image hover animation */
       @include transition(box-shadow 0.3s);
       &:hover {
-        box-shadow: 0 0 10px rgba($black, .20);
+        box-shadow: 0 0 50px rgba($black, .20);
       }
     }
   }
