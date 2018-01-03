@@ -2,25 +2,20 @@
 
 - title: 安利集
   url: /teaching/
-  excerpt: ""
-  image: learning_teaching.gif
+  excerpt: "GINTAMA！"
+  image: zila.gif
 
 - title: TABLEAU作品
   url: /portfolio/
   excerpt: "大概是tableau地图"
-  image: Portfolio.svg
-
-- title: HTML NOTES
-  url: /i18nl10n/
-  excerpt: "其实是当时乱写的"
-  image: Tower_of_Babel.jpg
+  image: yilishabai.gif
 
 - title: 可视化 NOTES
   url: /SDG/
-  excerpt: "一些小笔记吧"
-  image: 300x200.gif
+  excerpt: "emmm乱写的"
+  image: zongwushisi.gif
 
 - title: CONTENT ME
   url: /contact/
   excerpt: "在睡觉，回见"
-  image: Pigeon_post.jpg
+  image: shenle.gif
