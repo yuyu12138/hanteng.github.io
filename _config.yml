@@ -24,15 +24,17 @@ gems:
   - jekyll-feed
 
 
-# Site owner
-owner:
-  name: yuyu12138
-  email: 183110164@qq.com
-    ad-client:
-    ad-slot:
-  生物：“梁钰语中大南方文传学院网络与新媒体专业学生没有特长”
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+# Site owner＃网站所有者
+所有者：
+  名称：胡靖茵
+  电子邮件：846853193@qq.com
+  twitter：
+  google：
+    广告客户：
+    广告位：
+  bio：“胡靖茵中山大学南方学院网络与新媒体专业学生”
+  avatar：bio.jpg ＃ 160x160 px图片作者byline
+  disqus-shortname：
 
 
 include:
