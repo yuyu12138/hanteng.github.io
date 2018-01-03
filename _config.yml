@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "问题不大，脑袋爆炸"
-description: "我已经是辣鸡啦，过来跟大佬打个招呼"
-logo: # 120x120 px default image used for Twitter summary card
+title: "G833"
+description: "大山深处一颗修炼多年的板蓝根"
+logo: zhu-160x160 px.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: zh_TW # 本地化翻譯
+locale: zh_CN # 本地化翻譯
 url:
 feed:
   path: atom.xml
@@ -24,17 +24,17 @@ gems:
   - jekyll-feed
 
 
-# Site owner＃网站所有者
-所有者：
-  名称：胡靖茵
-  电子邮件：846853193@qq.com
-  twitter：
-  google：
-    广告客户：
-    广告位：
-  bio：“胡靖茵中山大学南方学院网络与新媒体专业学生”
-  avatar：bio.jpg ＃ 160x160 px图片作者byline
-  disqus-shortname：
+# Site owner
+owner:
+  name: 梁钰语
+  email: 183110164@qq.com
+  twitter: 
+  google:
+    ad-client:
+    ad-slot:
+  bio: "梁钰语 中山大学南方学院网络与新媒体专业学生"
+  avatar: bio.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
 
 include:
@@ -62,3 +62,4 @@ exclude:
   - package.json
   - spec
   - tmp
+  
