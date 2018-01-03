@@ -1,26 +1,26 @@
 # Site navigation links
 
-- title: 教学
+- title: 安利集
   url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
+  excerpt: ""
   image: learning_teaching.gif
 
-- title: 学生作品集
+- title: TABLEAU作品集
   url: /portfolio/
-  excerpt: "在此展示学生作品集，好的丶可改进的及有趣的"
+  excerpt: "大概是tableau地图"
   image: Portfolio.svg
 
-- title: i18nl10n
+- title: HTML NOTES
   url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
+  excerpt: "其实是当时乱写的"
   image: Tower_of_Babel.jpg
 
-- title: SDG
+- title: 可视化 NOTES
   url: /SDG/
-  excerpt: "可持续发展，含＂生态文明＂倡议"
+  excerpt: "一些小笔记吧"
   image: 300x200.gif
 
-- title: 联络我
+- title: CONTENT ME
   url: /contact/
-  excerpt: "联络我"
+  excerpt: "在睡觉，回见"
   image: Pigeon_post.jpg
