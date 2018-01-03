@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "安利我的本命番——银魂"
+title:  "安利我的本命番"
 date:   2018-1-04 03:30:40 +0800
 categories: posts rwd
 image:
