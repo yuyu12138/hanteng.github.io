@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: 安利集
+- title:  THE OTHERS
   url: /teaching/
   excerpt: "GINTAMA！"
   image: zila.gif
 
-- title: TABLEAU作品
+- title: TABLEAU
   url: /portfolio/
   excerpt: "大概是tableau地图"
   image: yueyong.gif
