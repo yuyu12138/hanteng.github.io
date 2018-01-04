@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "NOTES_网页设计"
 date: 2017-12-31T01:40:45-04:00
 modified:
 excerpt: "一些学习笔记"
@@ -9,7 +9,7 @@ tags: []
 
 
 <div class="tiles">
-{% for post in site.categories.posts %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 posts列出來-->
+</div><!-- /.tiles 把所有categories 有 rwd列出來-->
