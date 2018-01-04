@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "学生作品集"
-date: 2017-12-30T11:40:45-04:00
+title: "可视化作品"
+date: 2017-12-31T11:40:45-04:00
 modified:
-excerpt: "展示学生作品集，好的丶可改进的及有趣的"
+excerpt: "一个学期来做到的可视化作品"
 tags: []
 image: 
-  feature: Portfolio.svg
-  teaser:
+  feature: tutou2.jpg
+  teaser:
 ---
 
-在此展示学生作品集，好的丶可改进的及有趣的
+
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
