@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "可视化作品"
+title: "web作品集"
 date: 2017-12-31T11:40:45-04:00
 modified:
-excerpt: "一个学期来做到的可视化作品"
+excerpt: "一些web作品集"
 tags: []
 image: 
   feature: tutou2.jpg
