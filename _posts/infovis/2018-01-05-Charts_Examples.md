@@ -1,3 +1,12 @@
+---
+layout: article
+title:  "可视化图表类型"
+date:   2018-1-5 00:07:50 +0800
+categories: notes_tech tableau
+image:
+  teaser: CSS3.png
+  feature: CSS3.png
+---
 # 可视化图表类型
 
 > ### 1.1.1 地图
