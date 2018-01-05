@@ -4,8 +4,8 @@ title:  "Tableau地图的入门尝试"
 date:   2018-01-02 21:35:50 +0800
 categories: infovisnotes
 image:
-  teaser: txm2.jpg
-  feature: 
+  teaser: tableau2.jpg
+  feature: tableau.jpg
 ---
 
 了解了tableau以后就开始尝试用它做一些图表的练习，在这里记录一下自己入门学习遇到的坑。
