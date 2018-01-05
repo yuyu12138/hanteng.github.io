@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title:  THE OTHERS
-  url: /teaching/
-  excerpt: "GINTAMA！"
+- title: Web作品
+  url: /portfolio/
+  excerpt: "以前的网页作品(?)"
   image: zila.gif
 
-- title: TABLEAU
-  url: /portfolio/
-  excerpt: "大概是tableau地图"
+- title: Tableau作品
+  url: /infovis/
+  excerpt: "大概是tableau地图等等"
   image: yueyong.gif
 
-- title: NOTES
-  url: /SDG/
+- title: Notes_Web
+  url: /posts/rwd/
   excerpt: "emmm乱写的"
   image: liangren.gif
 
-- title: CONTENT ME
-  url: /contact/
+- title: Notes_Tableau
+  url: /posts/infovis/
   excerpt: "在睡觉，回见"
   image: shenle.gif
