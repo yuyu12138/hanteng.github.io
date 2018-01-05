@@ -2,7 +2,7 @@
 layout: article
 title:  "Github小贴士"
 date:   2017-12-29 19:45:50 +0800
-categories: post rwd
+categories: posts rwd
 image:
   teaser: github tips2.png
   feature: github tips2.png
