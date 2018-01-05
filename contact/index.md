@@ -6,7 +6,7 @@ modified:
 excerpt: "最好不要找我"
 tags: []
 image: 
-  feature: contact.gif
+  feature: contact1.gif
   teaser:
   thumb:
 share: false
