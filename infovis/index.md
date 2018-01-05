@@ -1,9 +1,14 @@
---- 
- layout: archive 
- title: "可视化作品集" 
- date: 2017-12-30T11:40:45-04:00 
- excerpt: "我的可视化作品" 
- --- 
+---
+layout: archive
+title: "信息可视化作品集"
+date: 2018-1-1T14:25:45-04:00
+modified:
+excerpt: "꒰⑅•ᴗ•⑅꒱"
+tags: []
+image: 
+  feature: visualization.gif
+  teaser:
+---
 
 
 <div class="tiles">
