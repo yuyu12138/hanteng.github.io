@@ -10,57 +10,6 @@ image:
   teaser:
 ---
 
-
-<!doctype html>
-<html class="no-js" lang="zh-CN">
-	<head>
-		<meta charset="utf-8">
-		<title>仙某某</title>
-		<meta name="description" content="一个被跳伞耽误的剑网3猛男">
-		<meta name="viewport" content="width=device-width">
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	<body>
-		<div class="Header">
-			<p class="Strap">极具正能量的粤语歌手 微博@仙某某 熊猫房间：1069884</p>
-		</div>
-		<div class="IntroWrapper">
-			<p class="IntroText">吃我李叔叔的安利,感谢“幼儿园小天使资源组”提供的节目录像</p>
-+				<!-- 根据 http://www.bilibili.com/video/av11373628/  -->
-+				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=11373628&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
-+			</p>
-<img src="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505315081133096496.jpg" alt="xianmoumou.jpg"/>
-				<p class="ImageCaption">仙某某头像,图片来源于微博</p>
-			</div>
-		</div>
-		<p>主角人物简介</p>
-			<h3 class="SubHeader">仙某人	</h3>
-			<ul>
-				<li>罪恶的仙人(剑纯原ID),仙某某(剑纯现ID)</li>
-				<li>人称李叔叔,仙儿,仙某人</li>
-				<li>坐标重庆,川普贼萌,其普通话只存在于唱歌,话唠</li>
-				<li>一唱歌就男神音系列</li>
-				<li>剑网三主播实力歌手，翻唱代表作:《千秋月别西楚将》,《我要你》,《好想你》,《小蛮腰》等</li>
-				<li>基友团:沐帮主,周公瑾,厉俊俊,王大陆,王大娘,狩殇,兰摧玉折等人</li>
-				<li>作为一个剑网三主播天天沉迷吃鸡,夕阳红枪法,打队友最准</li>
-			</ul>
-		</div>
-		<div class="男2人物简介">
-			<h3 class="SubHeader">周公谨</h3>
-			<ol class="MethodWrapper">
-				<li>小周,周公公,周某人</li>
-				<li>斗鱼主播,id周公谨2016，剑三双梦恶人指挥,是英雄阁的帮主</li>
-				<li>剑三BB机,商业吹嘘能力一流</li>
-				<li>实力宠仙某人</li>
-				<li>平寸头,有点小帅</li>
-				<li>声音跟长相不符系列</li>
-				<li>前段时间沉迷道道全(食用油)不能自拔，道道全代言人</li>
-				<li>自己的微博不更，致力于用狗头抢仙某人的热门</li>
-			</ol>
-		</div>
-	</body>
-</html>
-
 <div class="tiles">
 {% for post in site.categories.portfolio %}
   {% include post-grid.html %}
