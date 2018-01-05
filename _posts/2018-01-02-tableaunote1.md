@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau地图的入门尝试"
 date:   2018-01-02 21:35:50 +0800
-categories: posts infovis infovisnotes
+categories: infovisnotes
 image:
   teaser: txm2.jpg
   feature: 
