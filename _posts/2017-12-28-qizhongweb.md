@@ -4,8 +4,8 @@ title:  "期中网页作品"
 date:   2017-12-30 21:45:50 +0800
 categories: portfolio
 image:
-  teaser: txm2.jpg
-  feature: 
+  teaser: xainer.jpg
+  feature: xainer.jpg
 ---
 
 大概是个安利___第二弹
