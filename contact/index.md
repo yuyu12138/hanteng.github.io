@@ -6,11 +6,13 @@ modified:
 excerpt: "最好不要找我"
 tags: []
 image: 
-  feature: timg.png
+  feature: 
   teaser:
   thumb:
 share: false
 ads: false
 ---
-##
+
 >  [邮箱:chenleyi126@126.com](chenleyi126@126.com)
+
+>  [github:https://github.com/ChanLokyi](https://github.com/ChanLokyi)
