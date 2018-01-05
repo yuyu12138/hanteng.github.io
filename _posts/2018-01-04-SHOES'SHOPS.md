@@ -21,4 +21,6 @@ image:
 
 ## 作品 ↓ ↓ ↓
 
+- <a href="https://public.tableau.com/profile/.6733#!/vizhome/222_28/sheet8?:display_count=yes" target="_blank">使用Tableau来研究全国四个国际运动品牌的实体店分布数量与各地区经济水平和消费人群的关系</a>
+
 <iframe src="https://public.tableau.com/profile/.6733#!/vizhome/222_28/sheet8/sheet4?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="850px" height="900px" frameborder="0"></iframe>
