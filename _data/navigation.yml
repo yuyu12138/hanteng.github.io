@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: 作品集
-  url: /teaching/
+  url: /posts/teaching/
   excerpt: "去大山大海看人山人海"
   image: earth.gif
 
 - title: 信息可视化笔记
-  url: /posts//infovis//2018-01-05-Charts_Examples.md
+  url: /posts/infovis/
   excerpt: "一些笔记"
   image: write1.gif
 
 - title: 网页设计笔记
-  url: /posts//rwd/
+  url: /posts/rwd/
   excerpt: "好难呀"
   image: hard.gif
 
