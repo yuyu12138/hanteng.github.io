@@ -5,7 +5,7 @@ date:   2017-12-29 19:45:50 +0800
 categories: posts rwd
 image:
   teaser: github tips2.png
-  feature: github tips2.png
+  feature: 
 ---
 
 这是我无意中发现的一个方便修改文章的github小功能_(:з」∠)_
