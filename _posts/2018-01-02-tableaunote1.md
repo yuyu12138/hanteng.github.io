@@ -1,8 +1,8 @@
 ---
 layout: article
 title:  "Tableau地图的入门尝试"
-date:   2018-01-02 21:45:50 +0800
-categories: posts infovis
+date:   2018-01-02 21:35:50 +0800
+categories: posts infovis infovisnotes
 image:
   teaser: txm2.jpg
   feature: 
@@ -49,7 +49,7 @@ image:
 
 ## 本次尝试下来有两个问题：
 
-- 无法识别的位置如港澳台还没找到让其显示正确面积区域的方法（其实百度到了，但文档写的太复杂了我看不下去。。。。。。）
+- 无法识别的位置如港澳台还没找到让其显示正确面积区域的方法（其实百度到了，但文档写的太复杂了我看不下去。。。）
 
 - 保存不下来!!一点上面的保存就会显示发生内部错误，目前就是截图保存简单粗暴了！
 
