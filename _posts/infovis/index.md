@@ -3,7 +3,7 @@
  title: "可视化图表类型"
  date: 2018-1-5 00:07:50 +0800
  modified:
- excerpt: "可持续发展，含＂生态文明＂倡议"
+ excerpt: "十分简单的介绍"
  tags: []
  image: 
    feature: tableau.png
