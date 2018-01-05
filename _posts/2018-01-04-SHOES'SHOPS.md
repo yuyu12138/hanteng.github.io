@@ -4,7 +4,7 @@ title:  "耗时最长的期末Tableau作品__扛着掉发的风险"
 date:   2017-01-04 18:45:50 +0800
 categories: infovis visualization
 image:
-  teaser: shenle3.jpg
+  teaser: 
   feature: 
 ---
   
