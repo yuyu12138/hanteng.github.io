@@ -1,10 +1,15 @@
 # Site navigation links
 
-- title: 作品集
-  url: /posts/teaching/
+- title: 可视化作品集
+  url: /infovis/
   excerpt: "去大山大海看人山人海"
   image: earth.gif
 
+  title: HTML作品集
+  url: /portfolio/
+  excerpt: "小白作品"
+  image: earth.gif
+  
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: "一些笔记"
