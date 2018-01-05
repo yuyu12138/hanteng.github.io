@@ -3,7 +3,7 @@ layout: archive
 title: "Notes__Web"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "rua!!"
+excerpt: "rua!!!"
 tags: []
 image: 
   feature: 
