@@ -4,13 +4,10 @@
  date: 2017-12-30T11:40:45-04:00 
  excerpt: "我的可视化作品" 
  --- 
-   < a href="https://yuyu12138.github.io/_posts/SHOES2018-01-04-SHOES'SHOPS.md</ a> 
-   <div class="tiles"> 
- {% for post in site.posts %} 
- {% if post.categories contains 'infovis' %} 
- {% for title in post.title %}  
- <li>{% include post-grid.html %} </li> 
-   {% endfor %} 
- {% endif %} 
- {% endfor %} 
- </div><!-- /.tiles --> 
+
+
+<div class="tiles">
+{% for post in site.categories.visualization %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 visualization 的列出来-->
