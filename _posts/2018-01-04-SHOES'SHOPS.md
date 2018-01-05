@@ -17,7 +17,7 @@ image:
 ## 概要
 
 - 四个国际运动品牌的全国实体店数量探究
-- 
+
 
 ## 作品 ↓ ↓ ↓
 
@@ -26,7 +26,6 @@ image:
 <iframe src="https://public.tableau.com/profile/.6733#!/vizhome/222_28/sheet8/sheet4?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="850px" height="900px" frameborder="0"></iframe>
 
 ## 说明__此处高亮
-
 - 因为个人的电脑以及客户端问题，导致地图未生成成功，望理解_(:з」∠)_
 
 ## 结论
