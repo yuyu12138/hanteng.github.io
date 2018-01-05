@@ -1,10 +1,16 @@
----
-layout: default
-title:  "TABLEAU"
-date:   2017-12-07 23:45:15 +0800
-categories: infovis
----
-
-<div class='tableau1' style='width:800; height:600;'> 
-<iframe src="https://public.tableau.com/profile/.45238104#!/vizhome/_15729/sheet18"></iframe> 
-</div>
+--- 
+ layout: archive 
+ title: "TABLEAU" 
+ date: 2017-12-30T11:40:45-04:00 
+ excerpt: "可视化作品" 
+ --- 
+   < a href="https://yuyu12138.github.io/_posts/SHOES2018-01-04-SHOES'SHOPS.md</ a> 
+   <div class="tiles"> 
+ {% for post in site.posts %} 
+ {% if post.categories contains 'infovis' %} 
+ {% for title in post.title %}  
+ <li>{% include post-grid.html %} </li> 
+   {% endfor %} 
+ {% endif %} 
+ {% endfor %} 
+ </div><!-- /.tiles --> 
