@@ -3,7 +3,7 @@ layout: archive
 title: "Tableau笔记"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "emmmm是关于tableau的小笔记\(^o^)/"
+excerpt: "emmmm是关于tableau的小笔记"
 tags: []
 image: 
   feature: shenle.gif
