@@ -2,7 +2,7 @@
 layout: article
 title:  "可视化图表类型"
 date:   2018-1-5 00:07:50 +0800
-categories: posts infovis
+categories: posts infovisnotes
 image:
   teaser: tableau.png
   feature: tableau.png
