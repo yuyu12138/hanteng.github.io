@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : firebrick #b22222  http://encycolorpedia.cn/b22222
-   gainsboro #dcdcdc
+   Background : Grullo #a99a86  http://encycolorpedia.cn/a99a86
+   gainsboro #D1BFBF
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$firebrick                    : #b22222;
+$Grullo                       : #a99a86;
 $gainsboro                    : #dcdcdc;
 $lemon                        : #fff700;
 
@@ -38,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #b22222;
+$base-color                  	: #a99a86;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: #b22222;
+$primary-color               	: #a99a86;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -89,10 +89,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $firebrick;
-$sliding-menu-background 		   : $firebrick;
+$sliding-menu-border-color	 	   : $Grullo;
+$sliding-menu-background 		   : $Grullo;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $firebrick;
+$sliding-menu-background-hover     : $Grullo;
 $sliding-menu-color-hover	 	   : $gainsboro;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
