@@ -7,7 +7,7 @@ excerpt: "小白作品"
 tags: []
 image: 
   feature: earth1.gif
-  teaser:
+  teaser: earth1.gif
 ---
 
 
