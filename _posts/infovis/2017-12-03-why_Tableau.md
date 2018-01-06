@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau"
 date:   2017-12-30 08:45:50 +0800
-categories: rwd
+categories: infovis
 image:
   teaser: tableau.png
   feature: tableau.png
