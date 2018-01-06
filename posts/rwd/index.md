@@ -6,8 +6,8 @@ modified:
 excerpt: "网页设计小笔记啦_(:з」∠)_"
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature: liangren.gif
+  teaser:
 ---
 
 
