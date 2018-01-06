@@ -23,7 +23,7 @@ image:
 
 - <a href="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:display_count=yes" target="_blank">使用Tableau来研究全国四个国际运动品牌的实体店分布数量与各地区经济水平和消费人群的关系</a>
 
-<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="1060px" height="964px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="900px" height="830px" frameborder="0"></iframe>
 
 
 ## 结论
