@@ -5,11 +5,8 @@ date:   2018-01-01 08:45:50 +0800
 categories: tableau
 image:
   teaser: final_tableau1.png
-  feature: final_tableau.jpg
+  feature: 
 ---
-
-
-
 
 ---
   <div class='tableauPlaceholder' id='viz1515274704529' style='position: relative'><noscript>
@@ -35,7 +32,7 @@ image:
   <script type='text/javascript'>
     var divElement = document.getElementById('viz1515274704529');
     var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width='1169px';vizElement.style.height='854px';
+    vizElement.style.width='800px';vizElement.style.height='780px';
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
