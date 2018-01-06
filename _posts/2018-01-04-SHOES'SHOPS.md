@@ -5,7 +5,7 @@ date:   2017-01-04 18:45:50 +0800
 categories: infovis visualization
 image: 
   feature: 
-  teaser: shenle3.jpg
+  teaser: shoes.png
 ---
   
 耗时最长_扛着掉发的风险
