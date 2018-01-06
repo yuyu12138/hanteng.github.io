@@ -38,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $ofirebrick;
+$base-color                  	: #b22222;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $firebrick;
+$primary-color               	: #b22222;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
