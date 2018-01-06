@@ -2,7 +2,7 @@
 layout: article
 title:  "HTML"
 date:   2017-12-31 22:07:50 +0800
-categories: web
+categories: rwd
 image:
   teaser: html.png
   feature: html.png
@@ -15,4 +15,4 @@ image:
 ## 怎样使用HTML？
 
 ❤网络上有教学视频。
-参考网站：http://biaoyansu.com/6.x
+[参考网站：http://biaoyansu.com/6.x](http://biaoyansu.com/6.x)
