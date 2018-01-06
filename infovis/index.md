@@ -21,7 +21,7 @@ image:
 
 ## 作品 ↓ ↓ ↓
 
-<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="700px" height="700px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="700px" height="600px" frameborder="0"></iframe>
 
 
 ## 结论
