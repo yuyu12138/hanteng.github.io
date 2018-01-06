@@ -2,7 +2,7 @@
 layout: article
 title:  "Try Tableau"
 date:   2017-12-30 08:45:50 +0800
-categories: posts infovisnotes
+categories: posts infovis
 image:
   teaser: tableau.png
   feature: tableau.png
