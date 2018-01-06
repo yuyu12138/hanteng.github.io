@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau"
 date:   2017-12-30 08:45:50 +0800
-categories: posts rwd
+categories: rwd
 image:
   teaser: tableau.png
   feature: tableau.png
@@ -29,6 +29,8 @@ tableau是一款定位数据可视化敏捷开发和实现的商务智能展现�
 
 ## ②   如何用 Tableau
 
-tableau修炼地址:https://www.tableau.com/zh-cn/learn/training
+tableau修炼地址:https://www.tableau.com/zh-cn/learn/training(https://www.tableau.com/zh-cn/learn/training)
 
 ## ③   Cherry初试牛刀
+
+[我国发电产业调查](https://public.tableau.com/profile/chanlokyi#!/vizhome/_18210/1_1)
