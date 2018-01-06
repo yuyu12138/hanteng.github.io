@@ -2,7 +2,7 @@
 layout: article
 title:  "HTML"
 date:   2017-12-31 22:07:50 +0800
-categories: rwd
+categories: posts rwd
 image:
   teaser: html.png
   feature: html.png

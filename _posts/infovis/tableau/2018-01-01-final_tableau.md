@@ -2,7 +2,7 @@
 layout: article
 title:  "可视化期末作品"
 date:   2018-01-01 08:45:50 +0800
-categories: tableau
+categories: infovis tableau
 image:
   teaser: final_tableau.jpg
   feature: final_tableau.jpg
