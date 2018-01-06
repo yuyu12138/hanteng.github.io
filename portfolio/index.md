@@ -3,7 +3,7 @@ layout: archive
 title: "HTML作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "小白作品"
+excerpt: 
 tags: []
 image: 
   feature: earth1.gif
