@@ -28,7 +28,7 @@ image:
 		</div>
 		<div class="IntroWrapper">
 				 <a href="http://space.bilibili.com/86644929/#/?:display_count=yes" target="_blank">传送门→B站up主—仙某某—：各种官方cut</a>
-        <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash"src="//static.hdslb.com/miniloader.swf"flashvars="aid=17285684&page=1"pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+        <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=17285684&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 			</p>
 <img src="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505315081133096496.jpg" alt="xianmoumou.jpg"/>
 				<p class="ImageCaption">仙某某头像,图片来源于微博</p>
