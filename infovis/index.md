@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "╯-_-)╯~═╩════╩═~"
+excerpt: ""
 tags: []
 image: 
   feature: visualization.gif
@@ -21,9 +21,7 @@ image:
 
 ## 作品 ↓ ↓ ↓
 
-- <a href="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:display_count=yes" target="_blank">使用Tableau来研究全国四个国际运动品牌的实体店分布数量与各地区经济水平和消费人群的关系</a>
-
-<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="900px" height="830px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="800px" height="800px" frameborder="0"></iframe>
 
 
 ## 结论
