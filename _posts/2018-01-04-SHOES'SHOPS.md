@@ -4,8 +4,9 @@ title:  "期末Tableau作品"
 date:   2017-01-04 18:45:50 +0800
 categories: infovis visualization
 image: 
+  teaser: shoes.png
   feature: 
-  teaser: shoes.png
+  
 ---
   
 耗时最长_扛着掉发的风险
@@ -26,8 +27,6 @@ image:
 
 <iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="1060px" height="964px" frameborder="0"></iframe>
 
-## 说明__此处高亮
-- 因为个人的电脑以及客户端问题，导致地图未生成成功，望理解_(:з」∠)_
 
 ## 结论
 - 1、这几个运动品牌都是性价比比较高的，价格都在三位数到四位数之间，消费主力大部分都是小康经济水平和中产阶级。这些品牌的实体店大多数集中在环渤海地区和长三角地区。
