@@ -10,19 +10,11 @@ image:
   teaser:
 ---
 
-耗时最长_扛着掉发的风险
-
-{% include toc.html %}
-
-
-
 ## 概要：四个国际运动品牌的全国实体店数量分布原因探究
-
 
 ## 作品 ↓ ↓ ↓
 
 <iframe src="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="700px" height="600px" frameborder="0"></iframe>
-
 
 <div class="tiles">
 {% for post in site.categories.keshihua %}
