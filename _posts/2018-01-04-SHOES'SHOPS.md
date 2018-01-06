@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "期末Tableau作品_耗时最长_扛着掉发的风险"
+title:  "期末Tableau作品"
 date:   2017-01-04 18:45:50 +0800
 categories: infovis visualization
 image: 
@@ -8,7 +8,7 @@ image:
   teaser: shenle3.jpg
 ---
   
-这几天熬夜，手汗就没停流过QAQ
+耗时最长_扛着掉发的风险
 
 {% include toc.html %}
 
@@ -17,6 +17,7 @@ image:
 ## 概要
 
 - 四个国际运动品牌的全国实体店数量探究
+- 
 
 
 ## 作品 ↓ ↓ ↓
