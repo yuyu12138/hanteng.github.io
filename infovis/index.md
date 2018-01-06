@@ -34,7 +34,7 @@ image:
 - 5、澳门是一个独特的存在，它经济好，地理位置优越，交通便利却比内陆西部地区更少有这四个品牌的实体店。具体原因我也不是很清楚了。
 
 <div class="tiles">
-{% for post in site.categories.visualization %}
+{% for post in site.categories.keshihua %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 visualization 的列出来-->
+</div><!-- /.tiles 把所有categories 有 keshihua 的列出来-->
