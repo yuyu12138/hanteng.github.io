@@ -2,7 +2,7 @@
 layout: article
 title:  "E组期中项目"
 date:   2017-12-26 14:07:50 +0800
-categories: infovis visualization
+categories: visualization
 image:
   teaser: 
   feature: 
@@ -11,7 +11,7 @@ image:
 ## E组期中项目
 
 ## 概要
-
+- 我们从国家数据库中挑选了用水总量及其主要包含的四大用水类型分别是农业用水，工业用水，生态用水和生活用水作为指标，从这四个指标在这10年的年增长率的演变势态中来分析影响这些指标变化的主要因素。
 - 
 
 ## 作品
