@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "我国发电站及电力企业类型分布"
+title:  "可视化期末作品"
 date:   2018-01-01 08:45:50 +0800
 categories: tableau
 image:
@@ -10,6 +10,7 @@ image:
 
 
 
+##
 
   <div class='tableauPlaceholder' id='viz1515274704529' style='position: relative'><noscript>
     <a href='#'>
