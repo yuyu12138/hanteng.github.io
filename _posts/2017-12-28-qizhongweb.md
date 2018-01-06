@@ -28,7 +28,7 @@ image:
 		</div>
 		<div class="IntroWrapper">
 				 <a href="http://space.bilibili.com/86644929/#/?:display_count=yes" target="_blank">传送门→B站up主—仙某某—：各种官方cut</a>
-        <embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=11373628&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+        <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash"src="//static.hdslb.com/miniloader.swf"flashvars="aid=17285684&page=1"pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 			</p>
 <img src="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505315081133096496.jpg" alt="xianmoumou.jpg"/>
 				<p class="ImageCaption">仙某某头像,图片来源于微博</p>
@@ -42,7 +42,7 @@ image:
 				<li>坐标重庆,川普贼萌,其普通话只存在于唱歌,话唠</li>
 				<li>一唱歌就男神音系列</li>
 				<li>剑网三主播实力歌手，翻唱代表作:《千秋月别西楚将》,《我要你》,《好想你》,《小蛮腰》等</li>
-				<li>基友团:沐帮主,周公瑾,厉俊俊,王大陆,王大娘,狩殇,兰摧玉折等人</li>
+				<li>基友团:沐帮主,周公谨，冰心,厉俊俊,王大陆,王大娘,狩殇,兰摧玉折等人</li>
 				<li>作为一个剑网三主播天天沉迷吃鸡,夕阳红枪法,打队友最准</li>
 			</ul>
 		</div>
@@ -50,7 +50,7 @@ image:
 			<h3>周公谨</h3>
 			<ul>
 				<li>小周,周公公,周某人</li>
-				<li>斗鱼主播,id周公谨2016，剑三双梦恶人指挥,是英雄阁的帮主</li>
+				<li>曾经的剑三双梦恶人指挥</li>
 				<li>剑三BB机,商业吹嘘能力一流</li>
 				<li>实力宠仙某人</li>
 				<li>平寸头,有点小帅</li>
