@@ -2,7 +2,7 @@
 layout: article
 title:  "Github小贴士"
 date:   2017-12-29 19:45:50 +0800
-categories: posts rwd
+categories: posts
 image:
   teaser: github tips2.png
   feature: 
@@ -29,7 +29,8 @@ image:
 - 还有一种情况，就是你如果删掉了一些内容，它就出现这样的标记：
 
 ![gt3](https://image.ipaiban.com/upload-ueditor-image-20180106-1515177816997091137.png)
+
 `黄色标记`的这部分内容里，有`红色删除线`的内容就是你在编辑过程中已经删除的内容。
 
 - 这样就能在每一次commit之前有反馈地修改了。
-- 不过好像只有编辑文档的时候才有这个交互按钮。
+- 不过好像只有md格式文档编辑的时候才有这个交互按钮。
