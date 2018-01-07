@@ -11,7 +11,6 @@ image:
 ---
 
 -  概要：四个国际运动品牌的全国实体店数量分布原因探究
-- 作品 ↓ ↓ ↓
 ![yibiaopan](https://image.ipaiban.com/upload-ueditor-image-20180107-1515315506883057951.jpg)
 
 <div class="tiles">
