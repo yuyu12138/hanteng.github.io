@@ -12,9 +12,7 @@ image:
 
 {% include toc.html %}
 
-![gt](https://image.ipaiban.com/upload-ueditor-image-20180106-1515175326761074279.png)
-
-## 最近这几天为了修改模板都commit了几百次了，提交完了之后发现跑出来有错误又要重新点进去改。但是github有一个挺人性化的交互按钮，就能省去很多麻烦。这个摁钮的位置很容易被忽略↓↓↓
+-  最近这几天为了修改模板都commit了几百次了，提交完了之后发现跑出来有错误又要重新点进去改。但是github有一个挺人性化的交互按钮，就能省去很多麻烦。这个摁钮的位置很容易被忽略↓↓↓
 
 ![gt](https://image.ipaiban.com/upload-ueditor-image-20180106-1515176471610054919.png)
 
