@@ -20,23 +20,15 @@ image:
 
 ![kong](https://image.ipaiban.com/upload-ueditor-image-20180106-1515187004903005840.png)然后注册或者登录账号
 
-
 - 登录好了之后，点击`控制台`
 
 ![zhi](https://image.ipaiban.com/upload-ueditor-image-20180106-1515186913294017233.png)
 
-
 - 点击左侧栏的第一个图标`应用管理`
 
-![ying](https://image.ipaiban.com/upload-ueditor-image-20180106-1515187316054099876.png)
+- 然后`创建新应用`，应用名称随便填，应用类别随便选，然后确定创建
 
-
-- 然后`创建新应用`，应用名称随便填，应用类别随便选
-
-![yong](https://image.ipaiban.com/upload-ueditor-image-20180106-1515187463763041004.png)
-
-
-- 接着，就按图里的步骤就创建成功啦！
+- 接着，摁`添加新key`，按命名规范随便起名，`服务平台`选`web服务`，这样就创建成功啦！
 
 ![key](https://image.ipaiban.com/upload-ueditor-image-20180106-1515187899696093155.png)
 
