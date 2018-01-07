@@ -40,9 +40,6 @@ image:
 
 空知猩猩不要再骗我们完结了，我还期待第六季呢QAQ！
 
-![ginsang2](https://pic3.zhimg.com/50/v2-eda509099b338a439ea4296e5f4f4063_hd.jpg)
-
-
 [Some Like It Hot!!]: http://music.163.com/#/song?id=29762029
 
 <div class="tiles">
