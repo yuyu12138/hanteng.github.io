@@ -10,8 +10,6 @@ image:
   teaser:
 ---
 
-
-
 <div class="tiles">
 {% for post in site.categories.infovisnotes %}
   {% include post-grid.html %}
