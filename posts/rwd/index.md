@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Notes__Web"
+title: "网页设计小笔记_(:з」∠)_"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "网页设计小笔记_(:з」∠)_"
+excerpt: ""
 tags: []
 image: 
-  feature: liangren.gif
+  feature: 
   teaser:
 ---
 
