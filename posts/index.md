@@ -30,8 +30,6 @@ image:
 
 - 接着，摁`添加新key`，按命名规范随便起名，`服务平台`选`web服务`，这样就创建成功啦！
 
-![key](https://image.ipaiban.com/upload-ueditor-image-20180106-1515187899696093155.png)
-
 <div class="tiles">
 {% for post in site.categories.posts %}
   {% include post-grid.html %}
