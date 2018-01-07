@@ -11,7 +11,8 @@ image:
 ---
 
 -  概要：四个国际运动品牌的全国实体店数量分布原因探究
-<a href="https://public.tableau.com/views/_18220/1?:embed=y&:display_count=yes"target="_blank"><img src="https://image.ipaiban.com/upload-ueditor-image-20180107-1515315506883057951.jpg"width="670" height="550" alt="四个国际运动品牌的全国实体店数量分布原因探究"border="0"></a>
+
+<a href="https://public.tableau.com/profile/.6733#!/vizhome/_18220/1"target="_blank"><img src="https://image.ipaiban.com/upload-ueditor-image-20180107-1515315506883057951.jpg"width="670" height="550" alt="四个国际运动品牌的全国实体店数量分布原因探究"border="0"></a>
 
 <div class="tiles">
 {% for post in site.categories.keshihua %}
